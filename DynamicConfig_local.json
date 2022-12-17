@@ -1,0 +1,64 @@
+{
+  "dynamicConfigEntries": {
+    "decoder_test_audio_url": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/decoder_test_audio_url.mp4"
+      ]
+    },
+    "decoder_test_video_url": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/decoder_test_video_url.mp4"
+      ]
+    },
+    "media_codec_capabilities_test_avc_baseline12": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/media_codec_capabilities_test_avc_baseline12.mp4"
+      ]
+    },
+    "media_codec_capabilities_test_avc_baseline30": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/media_codec_capabilities_test_avc_baseline30.mp4"
+      ]
+    },
+    "media_codec_capabilities_test_avc_high31": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/media_codec_capabilities_test_avc_high31.mp4"
+      ]
+    },
+    "media_codec_capabilities_test_avc_high40": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/media_codec_capabilities_test_avc_high40.mp4"
+      ]
+    },
+    "streaming_media_player_test_http_h263_amr_video1": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/streaming_media_player_test_http_h263_amr_video1.mp4"
+      ]
+    },
+    "streaming_media_player_test_http_h263_amr_video2": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/streaming_media_player_test_http_h263_amr_video2.mp4"
+      ]
+    },
+    "streaming_media_player_test_http_h264_base_aac_video1": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/streaming_media_player_test_http_h264_base_aac_video1.mp4"
+      ]
+    },
+    "streaming_media_player_test_http_h264_base_aac_video2": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/streaming_media_player_test_http_h264_base_aac_video2.mp4"
+      ]
+    },
+    "streaming_media_player_test_http_mpeg4_sp_aac_video1": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/streaming_media_player_test_http_mpeg4_sp_aac_video1.mp4"
+      ]
+    },
+    "streaming_media_player_test_http_mpeg4_sp_aac_video2": {
+      "configValues": [
+        "file:///sdcard/CtsMediaTestCases/streaming_media_player_test_http_mpeg4_sp_aac_video2.mp4"
+      ]
+    }
+  }
+}
